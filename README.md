@@ -1,7 +1,7 @@
 # Crowdsec's Dashboard - Metabase Requests / Requètes Metabase pour Crowdsec Dashboard
 
 - [EN] List of Crowdsec queries used by Crowdsec Dashboard (via Metabase)
-  [FR] Liste des requètes Crowdsec utilisées par Crowdsec Dashboard (via Metabase)
+- [FR] Liste des requètes Crowdsec utilisées par Crowdsec Dashboard (via Metabase)
 
 ## Sources
 
